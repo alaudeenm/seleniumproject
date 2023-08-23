@@ -74,9 +74,9 @@ public class LoginSteps extends BaseClass{
 //		eo.addArguments("--disable-gpu");
 //		
 //		co.addArguments("--no-sandbox");
-////		co.addArguments("--disable-dev-shm-usage");
-////		co.addArguments("--remote-allow-origins=*");
-////
+//		co.addArguments("--disable-dev-shm-usage");
+//		co.addArguments("--remote-allow-origins=*");
+//
 ////		co.addArguments("--disable-gpu");
 //
 //		driver = new EdgeDriver(eo);
