@@ -78,6 +78,7 @@ public class LoginSteps extends BaseClass{
 //		co.addArguments("--remote-allow-origins=*");
 //This update is from FeatureBranch
 //Added a blank line		
+//		New blank line from Master branch		
 ////		co.addArguments("--disable-gpu");
 //
 //		driver = new EdgeDriver(eo);
