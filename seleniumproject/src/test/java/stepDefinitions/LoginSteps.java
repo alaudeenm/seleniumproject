@@ -62,10 +62,10 @@ public class LoginSteps extends BaseClass{
 	public void user_launch_the_chrome_browser() {
 
 		
-////		ChromeOptions co = new ChromeOptions();
+//		ChromeOptions co = new ChromeOptions();
 //		EdgeOptions eo= new EdgeOptions();
 //		
-////		WebDriverManager.chromedriver().setup();
+//		WebDriverManager.chromedriver().setup();
 //		WebDriverManager.edgedriver().setup();
 //		eo.addArguments("--no-sandbox");
 //		eo.addArguments("--disable-dev-shm-usage");
@@ -73,7 +73,7 @@ public class LoginSteps extends BaseClass{
 //
 //		eo.addArguments("--disable-gpu");
 //		
-////		co.addArguments("--no-sandbox");
+//		co.addArguments("--no-sandbox");
 ////		co.addArguments("--disable-dev-shm-usage");
 ////		co.addArguments("--remote-allow-origins=*");
 ////
